@@ -58,5 +58,5 @@ With requirements met, just follow the steps below:
 ```bash
 $ docker-compose build
 $ docker-compose up -d
-$ bash db_run.sh **necessary to populate headers database**
+$ bash db_run.sh #necessary to populate headers database#
 ```
